@@ -1,0 +1,23 @@
+{
+  "name": "Truffle_Oz_Integration",
+  "version": "1.0.0",
+  "description": "Truffle &amp; Open Zeppelin Integration code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenkcolin/Truffle_Oz_Integration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenkcolin/Truffle_Oz_Integration/issues"
+  },
+  "homepage": "https://github.com/stevenkcolin/Truffle_Oz_Integration#readme",
+  "dependencies": {
+    "@openzeppelin/cli": "^2.8.2"
+  }
+}
