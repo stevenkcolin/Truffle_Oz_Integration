@@ -9,7 +9,7 @@ module.exports = {
       port: 7545,
       gas: 5000000,
       gasPrice: 5e9,
-      networkId: '*',
+      networkId: '4447',
     },
     ropsten: {
       provider: () => new HDWalletProvider(
