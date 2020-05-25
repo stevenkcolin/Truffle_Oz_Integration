@@ -19,5 +19,9 @@
   "homepage": "https://github.com/stevenkcolin/Truffle_Oz_Integration#readme",
   "dependencies": {
     "@openzeppelin/cli": "^2.8.2"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.0.1",
+    "@truffle/hdwallet-provider": "^1.0.35"
   }
 }
